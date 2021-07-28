@@ -194,7 +194,7 @@ flag{b441a430-7064-4012-b862-dd8b7d71db91}
 
 #### 管理员账户获取
 
-登陆一次发现传送的是 JSON，同时 `/register` 路由下可以发现如下 JS 代码。
+登录一次发现传送的是 JSON，同时 `/register` 路由下可以发现如下 JS 代码。
 
 ```javascript
 // var obj={};
