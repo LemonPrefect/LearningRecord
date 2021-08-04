@@ -1,5 +1,5 @@
 ---
-butterId: var // blog image bucket id [Don't remove]
+butterId: butterId: 75186ee3-07e6-4e8e-8446-b7f6a3c08bf3 // blog image bucket id [Don't remove]
 ---
 
 # Week8 Summary
